@@ -39,7 +39,7 @@ const Hero = () => {
             Unleash the power of Learning within Gurukul. Upgrade your
             productivity with Interactive Hub, the education hub.
           </p>
-          <Button href="/blogs" white>
+          <Button href="https://devwrites.netlify.app/" white>
             Start Learning
           </Button>
         </div>
