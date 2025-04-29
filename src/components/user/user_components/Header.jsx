@@ -80,7 +80,7 @@ function Header({ user, onLogoutClick, toggleSidebar }) {
         >
           <div className="mt-3">
             <span className="self-center text-[20px] font-semibold whitespace-nowrap dark:text-white">
-              Gurukul
+              CollabSmart
             </span>
             <br />
             <span className="text-[12px]">Student Dashboard</span>

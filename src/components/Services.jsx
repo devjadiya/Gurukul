@@ -16,8 +16,8 @@ const Services = () => {
     <Section id="how-to-use">
       <div className="container">
         <Heading
-          title="Gurukul Learning."
-          text="Gurukul unlocks the potential of AI-powered Learning"
+          title="CollabSmart Learning."
+          text="CollabSmart unlocks the potential of AI-powered Learning"
         />
 
         <div className="relative">
@@ -35,7 +35,7 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="h4 mb-4">AI is generating.</h4>
               <p className="body-2 mb-[3rem] text-n-3">
-                Gurukul unlocks the potential of AI-powered learning.
+                CollabSmart unlocks the potential of AI-powered learning.
               </p>
               <ul className="body-2">
                 {brainwaveServices.map((item, index) => (

@@ -40,7 +40,7 @@ const Header = () => {
           className="block w-[12rem] xl:mr-8 text-3xl  font-normal text-[#aa358d] uppercase"
           href="/"
         >
-          Gurukul
+          CollabSmart
         </a>
 
         <nav

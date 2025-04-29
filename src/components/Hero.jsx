@@ -36,7 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Unleash the power of Learning within Gurukul. Upgrade your
+            Unleash the power of Learning within CollabSmart. Upgrade your
             productivity with Interactive Hub, the education hub.
           </p>
           <Button href="https://devwrites.netlify.app/" white>
